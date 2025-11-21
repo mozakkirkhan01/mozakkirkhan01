@@ -7,4 +7,6 @@
 - ⚡ Fun fact: I love debugging more than writing code (weird, I know 😅)
 - ### 🏆 GitHub Trophies
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=mozakkirkhan01&theme=radical)](https://github.com/ryo-ma/github-profile-trophy)
+### 🏆 GitHub Trophies
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=mozakkirkhan01&theme=radical&margin-w=15&margin-h=15)](https://github.com/ryo-ma/github-profile-trophy)
