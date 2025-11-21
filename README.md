@@ -6,10 +6,4 @@
 - 😄 Pronouns: He/him
 - ⚡ Fun fact: I love debugging more than writing code (weird, I know 😅)
   ### 🏆 GitHub Trophies
-### 🏆 GitHub Trophies
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=mozakkirkhan01&theme=radical)](https://github.com/ryo-ma/github-profile-trophy)
-<!---
-mozakkirkhan01/mozakkirkhan01 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+[![trophy](https://github-profile-trophy.vercel.app/?username=mozakkirkhan01&theme=radical&exclude=stars,issues,review)](https://github.com/ryo-ma/github-profile-trophy)
