@@ -5,12 +5,9 @@
 - 📫 How to reach me :- mozakkirkhan337@gmail.com
 - 😄 Pronouns: He/him
 - ⚡ Fun fact: I love debugging more than writing code (weird, I know 😅)
-- ### 🏆 GitHub Trophies
-
-### 🏆 GitHub Trophies
 
 # 📊GitHub Stats :
-![](https://github-readme-stats.vercel.app/api?username=mozakkirkhan01&theme=radical&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-stats.vercel.app/api?username=mozakkirkhan01&theme=radical&hide_border=false&include_all_commits=false&count_private=false)
 ![](https://github-readme-streak-stats.herokuapp.com/?user=mozakkirkhan01&theme=radical&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=mozakkirkhan01&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
