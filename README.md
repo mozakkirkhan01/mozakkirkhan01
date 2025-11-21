@@ -7,8 +7,13 @@
 - ⚡ Fun fact: I love debugging more than writing code (weird, I know 😅)
 
 # 📊GitHub Stats :
-![](https://github-readme-stats.vercel.app/api?username=mozakkirkhan01&theme=radical&hide_border=false&include_all_commits=false&count_private=false)
-![](https://github-readme-streak-stats.herokuapp.com/?user=mozakkirkhan01&theme=radical&hide_border=false)<br/>
+<table>
+  <tr>
+    <td><img src="https://github-readme-stats.vercel.app/api?username=mozakkirkhan01&theme=radical&hide_border=false&include_all_commits=false&count_private=false"></td>
+    <td style="padding-left:20px;"><img src="https://github-readme-streak-stats.herokuapp.com/?user=mozakkirkhan01&theme=radical&hide_border=false"></td>
+  </tr>
+</table>
+<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=mozakkirkhan01&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ---
