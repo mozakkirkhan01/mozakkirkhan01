@@ -1,5 +1,5 @@
 
-- 👋 Hi, I’m @mozakkirkhan01
+- 👋 Hi, I’m Md Mozakkir khan
 - 👀 I’m interested in full-stack development, open source, and backend systems..
 - 🌱 I’m currently learning MERN stack...
 - 💞️ I’m looking to collaborate on open-source JavaScript/Node.js projects and student-led tech initiatives.
