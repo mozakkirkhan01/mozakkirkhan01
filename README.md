@@ -9,9 +9,6 @@
 - 🌱 I’m currently learning MERN stack...
 - 💞️ I’m looking to collaborate on open-source JavaScript/Node.js projects and student-led tech initiatives.
 - 📫 How to reach me :- mozakkirkhan337@gmail.com
-- 😄 Pronouns: He/him
-- ⚡ Fun fact: I love debugging more than writing code (weird, I know 😅)
-
 
 
 
