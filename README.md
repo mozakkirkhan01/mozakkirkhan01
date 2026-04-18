@@ -16,8 +16,7 @@
  [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/mozakkir_khan) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mozakkirkhan) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:mozakkirkhan337@gmail.com) 
 
 # 📊GitHub Stats :
-#![](https://github-readme-#stats.vercel.app/api/top-langs/?#username=mozakkirkhan01&theme=dark&hide_#border=false&include_all_commits=false&c#ount_private=false&layout=compact) 
-.....
+
 ![](https://nirzak-streak-stats.vercel.app/?user=mozakkirkhan01&theme=dark&hide_border=false).....
 ---
 [![GitHub Streak](https://streak-stats.demolab.com/?user=mozakkirkhan01)](https://git.io/streak-stats)
