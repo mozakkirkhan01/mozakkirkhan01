@@ -17,7 +17,7 @@
 
 # 📊GitHub Stats :
 
-![](https://nirzak-streak-stats.vercel.app/?user=mozakkirkhan01&theme=dark&hide_border=false).....
+![](https://nirzak-streak-stats.vercel.app/?user=mozakkirkhan01&theme=dark&hide_border=false)
 ---
 [![GitHub Streak](https://streak-stats.demolab.com/?user=mozakkirkhan01)](https://git.io/streak-stats)
 <p align="center">
