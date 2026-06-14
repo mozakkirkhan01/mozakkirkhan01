@@ -6,8 +6,8 @@
 
 - 👀 I’m interested in full-stack development, open source, and backend systems...
 - 🌱 I’m currently learning MERN stack..
-- 💞️ I’m looking to collaborate on open-source JavaScript/Node.js projects and student-led tech initiatives..
-- 🚀 Interested in creating real-world projects that solve practical problems and improve user experience..
+- 💞️ I’m looking to collaborate on open-source JavaScript/Node.js projects and student-led tech initiatives...
+- 🚀 Interested in creating real-world projects that solve practical problems and improve user experience...
 - 📫 How to reach me :- mozakkirkhan337@gmail.com
 
 
