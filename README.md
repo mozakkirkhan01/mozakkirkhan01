@@ -17,6 +17,9 @@
 
 # 📊GitHub Stats :
 
+- name: GitHub Readme Streak Stats Action
+  uses: DenverCoder1/github-readme-streak-stats@v1.7.0
+
 ![](https://nirzak-streak-stats.vercel.app/?user=mozakkirkhan01&theme=dark&hide_border=false)
 ---
 [![GitHub Streak](https://streak-stats.demolab.com/?user=mozakkirkhan01)](https://git.io/streak-stats)
