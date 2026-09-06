@@ -1,7 +1,7 @@
 
 
 <h1 align="center">Hi 👋, I'm Md Mozakkir Khan</h1>
-<h3 align="center">🚀 Aspiring Full-Stack Developer | MERN Stack Learner | Backend Enthusiast</h3>
+<h3 align="center">🚀 Aspiring Full-Stack Developer | Backend Enthusiast</h3>
 
 
 - 👀 I’m interested in full-stack development, open source, and backend systems...
