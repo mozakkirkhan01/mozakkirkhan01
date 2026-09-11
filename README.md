@@ -17,8 +17,7 @@
 
 # 📊GitHub Stats :
 
-![](https://nirzak-streak-stats.vercel.app/?user=mozakkirkhan01&theme=dark&hide_border=false)
----
+
 [![GitHub Streak](https://streak-stats.demolab.com/?user=mozakkirkhan01)](https://git.io/streak-stats)
 <p align="center">
 <img src="https://angular.io/assets/images/logos/angular/angular.svg" width="40"/>
