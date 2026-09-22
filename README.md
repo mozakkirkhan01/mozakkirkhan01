@@ -72,18 +72,6 @@ I'm a passionate **Computer Science Engineering student** from India who enjoys 
 
 ---
 
-## 📚 Currently Learning
-
-* MERN Stack
-* Angular Advanced Concepts
-* ASP.NET Core Web API
-* SQL Server Optimization
-* Docker & Azure
-* Data Structures & Algorithms
-* System Design Fundamentals
-
----
-
 ## 📊 GitHub Stats
 
 <p align="center">
