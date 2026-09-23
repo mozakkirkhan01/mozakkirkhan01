@@ -3,7 +3,7 @@
 <h3 align="center">🚀 Full Stack Developer | Angular • ASP.NET • SQL Server • MERN</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&duration=2500&pause=1000&color=00C2FF&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;Angular+%7C+ASP.NET+Core+%7C+SQL+Server;Learning+MERN+Stack;Backend+Enthusiast;Open+Source+Learner" alt="Typing SVG"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&duration=2500&pause=1000&color=00C2FF&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;Angular+%7C+ASP.NET+Core+%7C+SQL+Server;Backend+Enthusiast;Open+Source+Learner" alt="Typing SVG"/>
 </p>
 
 ---
