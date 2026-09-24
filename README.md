@@ -10,7 +10,7 @@
 
 ## 💫 About Me
 
-I'm a passionate **Computer Science Engineering student** from India who enjoys building scalable web applications and learning modern backend technologies.
+I'm a passionate **Computer Science Engineer and Full-Stack .NET Developer** from India, focused on building scalable web applications, ERP solutions, and modern backend systems using **ASP.NET, Angular, and SQL Server**.
 
 * 🌱 Currently learning **MERN Stack**, **ASP.NET Core**, and **System Design**
 * 💻 Interested in **Full Stack Development**, **Backend Engineering**, and **Database Design**
