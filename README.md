@@ -94,19 +94,6 @@ I'm a passionate **Computer Science Engineer and Full-Stack .NET Developer** fro
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=mozakkirkhan01&theme=tokyo-night"/>
 </p>
 
----
-
-## 🎯 2026 Goals
-
-* 🚀 Become a skilled Full Stack Developer.
-* 📚 Master Angular, ASP.NET Core, and MERN Stack.
-* 🧩 Solve 300+ DSA problems.
-* 🌍 Contribute to Open Source.
-* ☁️ Learn Docker, Azure, and modern backend architecture.
-* 💼 Build impactful software products through continuous learning.
-
----
-
 <p align="center">
   <i>Code • Learn • Build • Repeat 🚀</i>
 </p>
