@@ -73,11 +73,6 @@ I'm a passionate **Computer Science Engineer and Full-Stack .NET Developer** fro
 ---
 
 ## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mozakkirkhan01&show_icons=true&theme=tokyonight&hide_border=true"/>
-</p>
-
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=mozakkirkhan01&theme=tokyonight&hide_border=true"/>
 </p>
