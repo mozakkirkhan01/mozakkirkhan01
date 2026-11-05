@@ -42,7 +42,7 @@ I'm a passionate **Computer Science Engineer and Full-Stack .NET Developer** fro
   </a>
 </p>
 
----
+--------
 
 ## 💻 Tech Stack
 
